@@ -74,7 +74,7 @@ If you find this code or our framework useful for your research, please consider
   pages={--}
 }
 ```
-*(Note: The citation will be updated once the manuscript is officially published.)*
+*(Note: The citation will be updated once the manuscript is accepted and officially published.)*
 
 ## License
 
