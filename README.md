@@ -76,6 +76,10 @@ If you find this code or our framework useful for your research, please consider
 ```
 *(Note: The citation will be updated once the manuscript is accepted and officially published.)*
 
+## Contact
+For any questions regarding the code or the paper, please open an issue in this repository or contact:
+**Shilong Sun** - [sunshilong@nudt.edu.cn](mailto:sunshilong@nudt.edu.cn)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
