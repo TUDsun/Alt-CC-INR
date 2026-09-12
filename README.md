@@ -14,12 +14,6 @@ By strictly mapping distinct mathematical variables to their most suitable solve
 1. **Dynamic Physical Fields (Contrast Sources):** Solved via an analytical, exact zero-padded 2D-FFT accelerated Polak-Ribière Conjugate Gradient (PR-CG).
 2. **Static Medium Profile (Permittivity/Conductivity):** Inferred via a stochastic deep learning optimizer (Adam) driving a continuous Implicit Neural Representation (INR) equipped with Fourier features.
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Architecture+Flowchart+Placeholder" alt="Architecture of Alt-CC-INR" width="80%)">
-  <br>
-  <em>(You can upload your Fig. 1 flowchart to the repo and replace this placeholder link later.)</em>
-</p>
-
 ## Key Features
 
 - **Heterogeneous Alternating Engine:** Completely abandons purely empirical step-size stochastic descents for physical field evolution, preventing local minima trapping.
