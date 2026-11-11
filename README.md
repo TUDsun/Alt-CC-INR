@@ -64,14 +64,16 @@ To ensure full transparency and reproducibility, the script includes the exact i
 If you find this code or our framework useful for your research, please consider citing our paper:
 
 ```bibtex
-@article{sun202Xaltccinr,
-  title={Alternating Optimization Framework with Cross-Correlated Loss and Implicit Neural Representation for Electromagnetic Inverse Scattering},
+@article{sun2026altccinr,
   author={Sun, Shilong},
-  journal={IEEE Transactions on Antennas and Propagation},
-  year={202X},
-  volume={--},
-  number={--},
-  pages={--}
+  journal={IEEE Transactions on Antennas and Propagation}, 
+  title={Alternating Optimization Framework with Cross-Correlated Loss and Implicit Neural Representation for Electromagnetic Inverse Scattering}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1--1},
+  doi={10.1109/TAP.2026.3749172},
+  note={early access}
 }
 ```
 *(Note: The citation will be updated once the manuscript is accepted and officially published.)*
