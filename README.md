@@ -76,7 +76,7 @@ If you find this code or our framework useful for your research, please consider
   note={early access}
 }
 ```
-*(Note: The citation will be updated once the manuscript is accepted and officially published.)*
+*(Note: The citation will be updated once the manuscript is officially published.)*
 
 ## Contact
 For any questions regarding the code or the paper, please open an issue in this repository or contact:
